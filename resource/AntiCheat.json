@@ -1,0 +1,22 @@
+{
+    "Config": {
+        "0": {
+            "AntiCheat": [
+                "AntiCheat/null", 
+                "Log/0", 
+        "map_arlibrary_default": "null", 
+        "map_desert_default": "null", 
+        "map_dihorotok_default": "null", 
+        "map_helicopter_default": "null", 
+        "map_hpcity_default": "null", 
+        "map_ruinshalf_default": "null", 
+        "map_savagemain_default": "null", 
+        "map_tdfactory_default": "null", 
+        "map_vehiclewar_default": "null", 
+        "map_zombiepve_default": "null", 
+        "res_audiohigh_default": "null", 
+        "res_baltichd_default": "null", 
+        "res_vulkanshader_default": "null", 
+        "res_weaponhd_default": "null"
+    }
+}
