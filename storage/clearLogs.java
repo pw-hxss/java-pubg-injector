@@ -4,7 +4,7 @@ import java.io.File;
 public class DeleteFile {
     public static void main(String[] args) {
         // Specify the absolute path to the file
-        String filePath = "/android/data/com.igce.tencent/data/cache/filename.txt";
+        String filePath = "/storage/emulated/0/Android/data/com.tencent.iglite/cache";
 
         File myObj = new File(filePath);
 
